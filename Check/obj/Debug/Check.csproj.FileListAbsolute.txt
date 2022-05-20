@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\2 Semestr alex.sueta\CG_2S\Check\bin\Debug\Check.exe.config
+C:\Users\admin\Desktop\2 Semestr alex.sueta\CG_2S\Check\bin\Debug\Check.exe
+C:\Users\admin\Desktop\2 Semestr alex.sueta\CG_2S\Check\bin\Debug\Check.pdb
+C:\Users\admin\Desktop\2 Semestr alex.sueta\CG_2S\Check\bin\Debug\MaterialSkin.dll
+C:\Users\admin\Desktop\2 Semestr alex.sueta\CG_2S\Check\obj\Debug\Check.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\2 Semestr alex.sueta\CG_2S\Check\obj\Debug\Check.CheckForm.resources
+C:\Users\admin\Desktop\2 Semestr alex.sueta\CG_2S\Check\obj\Debug\Check.Properties.Resources.resources
+C:\Users\admin\Desktop\2 Semestr alex.sueta\CG_2S\Check\obj\Debug\Check.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\2 Semestr alex.sueta\CG_2S\Check\obj\Debug\Check.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\2 Semestr alex.sueta\CG_2S\Check\obj\Debug\Check.csproj.CopyComplete
+C:\Users\admin\Desktop\2 Semestr alex.sueta\CG_2S\Check\obj\Debug\Check.exe
+C:\Users\admin\Desktop\2 Semestr alex.sueta\CG_2S\Check\obj\Debug\Check.pdb
+C:\Users\admin\Desktop\2 Semestr alex.sueta\CG_2S\Check\obj\Debug\Check.ViewForm.resources
